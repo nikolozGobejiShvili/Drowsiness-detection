@@ -27,4 +27,4 @@ Before running the script, ensure you have the following installed:
 
 ## Customization
 -You can adjust the threshold for triggering the alarm by modifying the score > 15 condition.
--The sound alarm is played using pygame with a 'alarm.wav' file. Make sure you have this sound file in your project directory.
+-The sound alarm is played using pygame with a 'alarm.wav' file. Make sure you have this sound file in your project directory
